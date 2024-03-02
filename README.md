@@ -1,24 +1,20 @@
 # Value-Changer
 # React App
 
-<h1>To Execute the App</h1>
-<br/>
-<br/>
-<br/>
-<h2>Use the App</h2>
-<br/>
-<p> cd 01_app </p>
-<br/>
-<br/>
-<br/>
+<h3>To Execute the App</h3>
+
+
+<h3>Use the App</h3 >
+
+<p> <pre>        cd    01_app</pre> </p>
+
+
 <h3>Install Required dependencies</h3>
-<br/>
-<p> npm i    <ul>oR</ul> npm install </p>
-<br/>
-<br/>
-<br/>
+
+<p><pre>        npm i     OR    npm install</pre> </p>
+
+
 <h3>Run Development Server</h3>
-<br/>
-<br/>
-<br/>
-<p>npm start</p>
+
+
+<p><pre>         npm start</pre></p>
