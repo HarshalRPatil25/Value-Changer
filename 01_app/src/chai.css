@@ -1,0 +1,32 @@
+*{
+    background-color: beige;
+}
+.container{
+    margin-left: 40%;
+}
+h1{
+    font-size: 56px;
+}
+h2{
+    font-size: 36px;
+    margin-left: 10%;
+}
+
+h3{
+    font-size: 36px;
+    margin-left: 10%;
+}
+.btn{
+    margin-left: -130px;
+     display:flex;
+     
+}
+button{
+    margin-left: 10%;
+    border: 1px solid rgb(219, 88, 193);
+    border-radius: 15%;
+    width:125px;
+    height: 35px;
+    color: rgb(219, 88, 193);
+}
+
